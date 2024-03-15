@@ -12,24 +12,24 @@
         "logo": "https://raw.githubusercontent.com/EvandroUp/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
-        "name": "css",
+        "name": "Css",
         "logo": "https://raw.githubusercontent.com/EvandroUp/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
-        "name": "github",
+        "name": "Github",
         "logo": "https://raw.githubusercontent.com/EvandroUp/js-developer-portfolio/main/data/imgs/github.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "html",
+        "logo": "https://raw.githubusercontent.com/EvandroUp/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "python",
+        "logo": "https://raw.githubusercontent.com/EvandroUp/js-developer-portfolio/main/data/imgs/python.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "mysql",
+        "logo": "https://raw.githubusercontent.com/EvandroUp/js-developer-portfolio/main/data/imgs/mysql.png"
       }
     ],
     "softSkills": [
